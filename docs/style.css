@@ -37,10 +37,11 @@ h1{
       padding: 14px 16px;
       text-decoration: none;
       font-size: 17px;
+      background-color: #ff0000;
     }
     
     .topnav a:hover {
-      background-color: #fd7979;
+      background-color: #fd4747;
       color: black;
     }
     
@@ -52,12 +53,5 @@ h1{
 
     
     
+
     
-    .topnav .search-container button:hover {
-      background: #54db54;
-    }
-    
-    @media screen and (max-width: 600px) {
-      .topnav .search-container {
-        float: none;
-      }
